@@ -3,22 +3,27 @@
 ## Soal 2
 **Pertanyaan** : Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 
-**Jawaban** :   1. Buka file soal2.pcapng
-                2. Ketik "http" di display filter dan tekan enter
-                3. Cari info yang bertuliskan "200 OK" dan klik line tersebut
-                4. Klik "Hypertext Transfer Protocol"
-                5. Server tertulis di bagian tersebut (gunicorn)
+**Jawaban** :   
+1. Buka file soal2.pcapng
+2. Ketik "http" di display filter dan tekan enter
+3. Cari info yang bertuliskan "200 OK" dan klik line tersebut
+4. Klik "Hypertext Transfer Protocol"
+5. Server tertulis di bagian tersebut (gunicorn)
 
 
 
 ## Soal 3
-**Pertanyaan** : A. Mencari banyak paket yang tercapture dengan dengan IP source maupun destination address 239.255.255.250 dengan port 3702
-                 B.	Protokol layer transport apa yang digunakan
+**Pertanyaan** : 
+A. Mencari banyak paket yang tercapture dengan dengan IP source maupun destination address 239.255.255.250 dengan port 3702
+B.	Protokol layer transport apa yang digunakan
                  
-**Jawaban** : A. 1. Buka file soal3.pcapng
-                 2. Ketik "ip.addr == 239.255.255.250 and udp.port == 3702"
-                 3. Hitung (21)
-              B. 1. Protokol yang digunakan dapat dilihat di bagian "Protocol" (UDP)
+**Jawaban** : 
+A. 
+1. Buka file soal3.pcapng
+2. Ketik "ip.addr == 239.255.255.250 and udp.port == 3702"
+3. Hitung (21)
+B.
+1. Protokol yang digunakan dapat dilihat di bagian "Protocol" (UDP)
 
 
 
