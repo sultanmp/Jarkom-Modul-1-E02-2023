@@ -2,7 +2,7 @@
 
 ## Soal 2
 **Pertanyaan** : Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
-
+![image](https://github.com/sultanmp/Jarkom-Modul-1-E02-2023/blob/main/Images/Screenshot%202023-09-22%20202618.png)
 **Jawaban** :   
 1. Buka file soal2.pcapng
 2. Ketik "http" di display filter dan tekan enter
@@ -14,7 +14,7 @@
 
 ## Soal 3
 **Pertanyaan** :
-
+![image](https://github.com/sultanmp/Jarkom-Modul-1-E02-2023/blob/main/Images/Screenshot%202023-09-22%20202725.png)
 A. Mencari banyak paket yang tercapture dengan dengan IP source maupun destination address 239.255.255.250 dengan port 3702
 
 B. Protokol layer transport apa yang digunakan
