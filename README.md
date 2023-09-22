@@ -1,6 +1,7 @@
 # Jarkom-Modul-1-E02-2023
 ## Soal Nomor 7
 Berapa nilai checksum yang didapat dari header pada paket nomor 130?
+
 Step by step mengerjakan:
 1. Sort sesuai nomor urutan paket
 2. Scroll menuju nomor urutan paket yang ingin dicari yaitu 130
