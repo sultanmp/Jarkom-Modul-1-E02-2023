@@ -19,7 +19,8 @@ Step by step mengerjakan namun fail:
 2. Lalu buka window analyze dan follow tcp stream
 3. Lalu seharusnya akan keluar kredensial dari telnet namun pada case kali ini tidak muncul kredensial
 
-![image](https://github.com/sultanmp/Jarkom-Modul-1-E02-2023/assets/81198376/05e9902e-9069-4181-a2d6-43d003fc4c8d)
+![image](https://github.com/sultanmp/Jarkom-Modul-1-E02-2023/assets/81198376/3f408578-d1e8-4ede-97da-80f617851bbf)
+
 
 Step by step mengerjakan:
 1. Display filter telnet
