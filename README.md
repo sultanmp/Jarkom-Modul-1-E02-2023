@@ -12,6 +12,7 @@ Step by step mengerjakan:
 ![image](https://github.com/sultanmp/Jarkom-Modul-1-E02-2023/assets/81198376/3a294daf-5236-4138-9922-c4c284a31882)
 ## Soal Nomor 10
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
+
 Step by step mengerjakan namun fail:
 1. Display filter telnet
 2. Lalu buka window analyze dan follow tcp stream
