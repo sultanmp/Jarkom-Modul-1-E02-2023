@@ -7,6 +7,7 @@ Step by step mengerjakan:
 2. Scroll menuju nomor urutan paket yang ingin dicari yaitu 130
 3. Lalu buka paket dan buka bagian user datagram protocol
 4. Lalu akan terlihat checksum bernilai 0x18e5
+
 ![image](https://github.com/sultanmp/Jarkom-Modul-1-E02-2023/assets/81198376/3a294daf-5236-4138-9922-c4c284a31882)
 ## Soal Nomor 10
 Sebutkan kredensial yang benar ke􀆟ka user mencoba login menggunakan Telnet!
